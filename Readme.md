@@ -1,11 +1,9 @@
 
-# mixins
-
-  undefined
+# Mixins
 
 ## Installation
 
-  Install with [spin(1)](http://github.com/spinly/spin):
+  Install with [component(1)](http://github.com/component/component):
 
-    $ spin install spinly/mixins
+    $ component install spinly/mixins
 
